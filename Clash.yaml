@@ -12,8 +12,8 @@ ruleset=⛔️ Reject, https://raw.githubusercontent.com/blackmatrix7/ios_rule_s
 ruleset=💫 溜溜球, []FINAL
 
 
-custom_proxy_group=💫 溜溜球`fallback`.*`http://www.gstatic.com/generate_204`300,,50(HKG|HK|香港|JPN|JP|日本)
+custom_proxy_group=💫 溜溜球`fallback`(HKG|HK|香港|JPN|JP|日本)`http://www.gstatic.com/generate_204`300,,50
 custom_proxy_group=🏳️‍🌈 公益服`select`=[]💫 溜溜球`[]🌎 Direct
-custom_proxy_group=🍿 流媒体`fallback`.*`http://www.gstatic.com/generate_204`300,,50(SGP|SG|新加坡)
+custom_proxy_group=🍿 流媒体`fallback`(SGP|SG|新加坡)`http://www.gstatic.com/generate_204`300,,50
 custom_proxy_group=⛔️ Reject`select`[]REJECT
 custom_proxy_group=🌎 Direct`select`[]DIRECT
