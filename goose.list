@@ -1,5 +1,8 @@
 #JP
 ip-cidr, 103.117.103.127/32, goose
+ip-cidr, 43.207.66.12/32, goose
+ip-cidr, 35.77.198.75/32, goose
+ip-cidr, 18.181.238.168/32, goose
 ip-cidr, 54.150.52.31/32, goose
 ip-cidr, 18.181.238.83/32, goose
 #DE
