@@ -17,5 +17,6 @@ ip-cidr, 18.230.161.222/32, goose
 ip-cidr, 54.180.64.186/32, goose
 
 host, us-central1-gaggle-staging.cloudfunctions.net, goose
+host, securetoken.googleapis.com, goose
 host-suffix, unity3d.com, goose
 host-suffix, gaggle.fun, goose
