@@ -1,23 +1,23 @@
 #JP
-ip-cidr, 103.117.103.127/32, goose
-ip-cidr, 43.207.66.12/32, goose
-ip-cidr, 35.77.198.75/32, goose
-ip-cidr, 18.181.238.168/32, goose
-ip-cidr, 54.150.52.31/32, goose
-ip-cidr, 18.181.238.83/32, goose
+ip-cidr, 103.117.103.0/24, goose
+ip-cidr, 54.150.48.0/20, goose
+ip-cidr, 18.181.0.0/16, goose
+ip-cidr, 43.206.0.0/15, goose
+ip-cidr, 35.77.192.0/18, goose
+ip-cidr, 18.181.0.0/16, goose
 #DE
-ip-cidr, 3.124.157.100/32, goose
-ip-cidr, 18.194.67.83/32, goose
+ip-cidr, 3.124.128.0/18, goose
+ip-cidr, 18.194.64.0/19, goose
 #SG
-ip-cidr, 18.141.84.24/32, goose
+ip-cidr, 18.141.64.0/19, goose
 #AU
-ip-cidr, 3.106.43.128/32, goose
+ip-cidr, 3.106.32.0/20, goose
 #US
-ip-cidr, 3.137.55.104/32, goose
+ip-cidr, 3.137.48.0/20, goose
 #BR
-ip-cidr, 18.230.161.222/32, goose
+ip-cidr, 18.230.160.0/19, goose
 #KR
-ip-cidr, 54.180.64.186/32, goose
+ip-cidr, 54.180.0.0/15, goose
 
 host, us-central1-gaggle-staging.cloudfunctions.net, goose
 host-suffix, googleapis.com, goose
