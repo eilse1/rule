@@ -1,5 +1,8 @@
+# 网页字体
 DOMAIN-SUFFIX, fonts.googleapis.com
 DOMAIN-SUFFIX, fonts.gstatic.com
+# steam
 DOMAIN-SUFFIX, steamcommunity.com
 DOMAIN-SUFFIX, store.steampowered.com
+# 机场官网
 DOMAIN-SUFFIX, subs.usero.cn
