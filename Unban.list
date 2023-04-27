@@ -1,6 +1,9 @@
-# Unbreak 白名单 不应该被广告链接的网站
+# Unbreak 白名单
 #Sub
 DOMAIN-SUFFIX,dler.io
+DOMAIN,emby.misakaf.org
+DOMAIN,a.misty.one
+
 
 # Epicgames
 DOMAIN-SUFFIX,ol.epicgames.com
