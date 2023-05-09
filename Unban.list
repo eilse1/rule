@@ -1,6 +1,7 @@
 # Unbreak 白名单
 #Sub
-#DOMAIN,api.dler.io
+DOMAIN,api.dler.io
+DOMAIN,api.nexconvert.com
 
 #emby
 DOMAIN,emby.misakaf.org
