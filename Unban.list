@@ -1,7 +1,5 @@
 # Unbreak 白名单
 #Sub
-DOMAIN,api.dler.io
-DOMAIN,api.nexconvert.com
 DOMAIN,api.tsutsu.one
 
 #emby
