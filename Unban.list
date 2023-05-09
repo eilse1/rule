@@ -1,6 +1,6 @@
 # Unbreak 白名单
 #Sub
-DOMAIN,api.tsutsu.one
+DOMAIN-SUFFIX,tsutsu.one
 
 #emby
 DOMAIN,emby.misakaf.org
