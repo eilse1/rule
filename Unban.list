@@ -1,6 +1,8 @@
 # Unbreak 白名单
 #Sub
 DOMAIN-SUFFIX,tsutsu.one
+DOMAIN-SUFFIX,immconvert.com
+DOMAIN-SUFFIX,nexconvert.com
 
 #emby
 DOMAIN,emby.misakaf.org
