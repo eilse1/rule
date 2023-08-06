@@ -1,6 +1,6 @@
 # Unbreak 白名单
 #Sub
-DOMAIN-SUFFIX,tsutsu.one
+DOMAIN,api.tsutsu.one
 
 #emby
 DOMAIN,cs.tank88.top
