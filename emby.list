@@ -1,3 +1,5 @@
+#关键词匹配
+DOMAIN-KEYWORD, emby
 #垃圾
 DOMAIN-SUFFIX, emby.ml
 #卡戎
@@ -6,8 +8,6 @@ DOMAIN-SUFFIX, charontv.com
 DOMAIN-SUFFIX, jmsooo.com
 #终点站
 DOMAIN-SUFFIX, emby.wtf
-#品云
-DOMAIN-SUFFIX, embyplus.club
 #misty
 DOMAIN-SUFFIX, misty.ltd
 #Peach
