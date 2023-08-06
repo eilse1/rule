@@ -1,11 +1,9 @@
 # Unbreak 白名单
 #Sub
 DOMAIN-SUFFIX,tsutsu.one
-DOMAIN-SUFFIX,immconvert.com
-DOMAIN-SUFFIX,nexconvert.com
 
 #emby
-DOMAIN,emby.misakaf.org
+DOMAIN,cs.tank88.top
 DOMAIN,a.misty.one
 DOMAIN,embymv.tk
 DOMAIN,cdn.otv.icu
