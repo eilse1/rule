@@ -1,12 +1,10 @@
 # Unbreak 白名单
 #Sub
-DOMAIN,api.tsutsu.one
+
 
 #emby
 DOMAIN,cs.tank88.top
-DOMAIN,a.misty.one
 DOMAIN,embymv.tk
-DOMAIN,cdn.otv.icu
 
 # Epicgames
 DOMAIN-SUFFIX,ol.epicgames.com
