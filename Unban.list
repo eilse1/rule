@@ -5,6 +5,9 @@ DOMAIN,api.dler.io
 #emby
 DOMAIN,a.tiangou.xyz
 
+#去广告误杀
+DOMAIN,ak-d.tripcdn.com
+
 #Lan
 DOMAIN,asusrouter.com
 DOMAIN,cp.cloudflare.com
