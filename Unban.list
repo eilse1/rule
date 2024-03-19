@@ -6,7 +6,7 @@ DOMAIN,api.dler.io
 DOMAIN,a.tiangou.xyz
 
 #去广告误杀
-DOMAIN,ak-d.tripcdn.com
+DOMAIN-SUFFIX,ak-d.tripcdn.com
 
 #Lan
 DOMAIN,asusrouter.com
