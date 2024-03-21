@@ -8,7 +8,7 @@ DOMAIN,a.tiangou.xyz
 
 #去广告误杀
 DOMAIN-SUFFIX,ak-d.tripcdn.com
-DOMAIN,ib.snssdk.com
+DOMAIN-SUFFIX,ib.snssdk.com
 
 # 本地/局域网地址
 DOMAIN-SUFFIX,ip6-localhost
